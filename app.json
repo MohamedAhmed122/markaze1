@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "markaze1",
-    "slug": "markaze1",
+    "name": "bikeWithUs",
+    "slug": "bikeWithUs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
